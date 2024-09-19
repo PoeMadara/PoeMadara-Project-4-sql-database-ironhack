@@ -3,7 +3,10 @@
 -- Host: localhost    Database: civitatis_airbnb
 -- ------------------------------------------------------
 -- Server version	8.0.39
+DROP SCHEMA IF EXISTS `civitatis_airbnb` ;
+CREATE SCHEMA `civitatis_airbnb` ;
 
+USE `civitatis_airbnb` ;
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
