@@ -33,9 +33,19 @@ Convertir a Civitatis en un referente líder en la toma de decisiones comerciale
 
 Aquí puedes ver los gráficos generados durante el proyecto:
 
-| ![Mapa capacidad alojamientos](/img/mapa_capacidad_alojamientos.png) | ![Mapa tipo de alojamiento](/img/mapa_tipo_alojamiento.png) | ![Porcentaje Airbnbs según capacidad](/img/porcentaje_segun_capacidad_alojamiento.png) |
-|-----------------------------------|-------------------------------------|-------------------------------------|
-| ![Porcentaje de Habitaciones vs. Apartamentos](/img/porcentaje_habitaciones_apartamentos.png) | ![Porcentaje de Hosts por Número de Anuncios](/img/porcentaje_host_listings_count.png) | ![Top hosts](/img/top_10_hosts.png) |
+<table>
+  <tr>
+    <td><img src="/img/mapa_capacidad_alojamientos.png" alt="Mapa capacidad alojamientos" width="200"/></td>
+    <td><img src="/img/mapa_tipo_alojamiento.png" alt="Mapa tipo de alojamiento" width="200"/></td>
+    <td><img src="/img/porcentaje_segun_capacidad_alojamiento.png" alt="Porcentaje Airbnbs según capacidad" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="/img/porcentaje_habitaciones_apartamentos.png" alt="Porcentaje de Habitaciones vs. Apartamentos" width="200"/></td>
+    <td><img src="/img/porcentaje_host_listings_count.png" alt="Porcentaje de Hosts por Número de Anuncios" width="200"/></td>
+    <td><img src="/img/top_10_hosts.png" alt="Top hosts" width="200"/></td>
+  </tr>
+</table>
+
 
 
 
