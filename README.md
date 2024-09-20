@@ -29,6 +29,28 @@ Convertir a Civitatis en un referente líder en la toma de decisiones comerciale
 
 ---
 
+## Diagrama ERD
+
+![Diagrama ERD](/img/diagram_ERD.png)
+
+Relaciones entre las tablas:
+
+**Tabla listing** es la tabla principal del modelo de datos, con las siguientes claves:
+  - **PK (Primary Key):** `listing_id`
+  - **FK (Foreign Key):** `host_id`
+     
+**Tabla host** contiene todos los anfitriones respecto a los alojamientos
+  - Relación **1:N** con la **tabla listing** a través de la clave `host_id`.
+
+**Tabla reviews** es la tabla que tiene los grupos de reseñas por alojamiento
+  - **FK (Foreign Key):** `listing_id`
+  - Relación **1:1** con la **tabla listing** a través de la clave `listing_id`.
+
+
+
+___
+
+
 ## Gráficos
 
 Aquí puedes ver los gráficos generados durante el proyecto:
