@@ -4,3 +4,6 @@ ipython==8.27.0
 ipykernel==6.29.5
 seaborn==0.13.2
 matplotlib==3.9.2
+sqlalchemy==2.0.34
+pymysql==1.0.2
+folium==0.14.0
