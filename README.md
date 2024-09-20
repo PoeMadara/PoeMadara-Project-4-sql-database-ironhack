@@ -31,7 +31,12 @@ Convertir a Civitatis en un referente líder en la toma de decisiones comerciale
 
 ## Gráficos
 
-(Aquí irán los gráficos actualizados cuando me los proporciones)
+Aquí puedes ver los gráficos generados durante el proyecto:
+
+| ![Mapa capacidad alojamientos](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Mapa%20capacidad%20alojamientos.png) | ![Mapa tipo de alojamiento](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Mapa%20tipo%20de%20alojamiento.png) | ![Porcentaje Airbnbs según capacidad](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Porcentaje%20de%20Airbnbs%20según%20capacidad%20de%20alojamiento.png) |
+|-----------------------------------|-------------------------------------|-------------------------------------|
+| ![Porcentaje de Habitaciones vs. Apartamentos](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Porcentaje%20de%20Habitaciones%20vs.%20Apartamentos.png) | ![Porcentaje de Hosts por Número de Anuncios](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Porcentaje%20de%20Hosts%20por%20Número%20de%20Anuncios.png) | ![Top hosts](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/Gráficas/Top%20hosts.png) |
+
 
 ---
 
