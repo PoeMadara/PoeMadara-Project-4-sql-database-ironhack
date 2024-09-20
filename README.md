@@ -88,10 +88,7 @@ Asegúrate de tener los siguientes archivos descargados y ubicados en la misma c
 - `report_functions.py`
 - `civitatis_airbnb_database.sql`
 - `civitatis_airbnb_schema.sql`
-- `civitatis_airbnb_host.csv`
-- `civitatis_airbnb_listing.csv`
-- `civitatis_airbnb_reviews.csv`
-- Archivos extraídos de `calendar_and_listings_csv.rar`
+- Archivos extraídos de `calendar_and_listings_csv.rar` (calendar.csv y listings.csv)
 
 ### Pasos para ejecutar:
 1. **Limpiar los datos**: Abre y ejecuta el archivo `main_cleanup.ipynb`. Este script procesará los CSV y generará versiones limpias de los archivos.
