@@ -97,7 +97,7 @@ Asegúrate de tener los siguientes archivos descargados y ubicados en la misma c
    - Carga los archivos SQL en **MySQL Workbench** en este orden:
      1. `civitatis_airbnb_schema.sql`
      2. `civitatis_airbnb_database.sql`
-   - Crea el esquema ejecutando las instrucciones en **MySQL Workbench**. Copia el código generado y pégalo en la pestaña de consultas (queries). Usa este esquema para realizar las consultas SQL que desees.
+   - Crea el esquema ejecutando las instrucciones en **MySQL Workbench**. Ponle el nombre de **civitatis_airbnb**, luego copia el código generado y pégalo en la pestaña de consultas (queries). Usa este esquema para realizar las consultas SQL que desees.
 
 3. **Generar gráficos y mapas**: Ejecuta los scripts `cleaning_functions.py` y `report_functions.py`. Estos scripts crearán las visualizaciones gráficas y los mapas basados en los datos procesados.
 
