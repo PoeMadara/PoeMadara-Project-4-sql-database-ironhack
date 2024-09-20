@@ -1,6 +1,6 @@
 # Civitatis & Airbnb - Estrategia comercial enfocada en datos turísticos de ocupación
 
-![Imagen](https://files.oaiusercontent.com/file-t3Jvgy30ZCbCaPdda0eJ54tt?se=2024-09-20T05%3A30%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc66d2478-f8b3-4ab5-b561-754c3188ae2d.webp&sig=X6LuMabvi2MjKk6aicUcmzpy5yyxbmLp/iB2sVfyJy4%3D)
+![Imagen](https://github.com/JoseMi-Sanchez/sql-database_team-7/blob/main/readme-image.png)
 
 ---
 
