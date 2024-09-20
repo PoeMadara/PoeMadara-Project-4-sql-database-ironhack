@@ -68,7 +68,41 @@ Aquí puedes ver los gráficos generados durante el proyecto:
   </tr>
 </table>
 
+---
 
+## Instrucciones para ejecutar el proyecto
+
+### Requisitos previos:
+1. **Instalar Python**: Descarga e instala [Python](https://www.python.org/) en tu sistema.
+2. **Instalar dependencias**: Ejecuta el siguiente comando para instalar los paquetes requeridos desde el archivo `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Descargar e instalar MySQL Workbench 8**: Puedes hacerlo desde [aquí](https://dev.mysql.com/downloads/workbench/).
+
+### Preparación de archivos:
+Asegúrate de tener los siguientes archivos descargados y ubicados en la misma carpeta del proyecto:
+- `main_cleanup.ipynb`
+- `main_report.ipynb`
+- `cleaning_functions.py`
+- `report_functions.py`
+- `civitatis_airbnb_database.sql`
+- `civitatis_airbnb_schema.sql`
+- `civitatis_airbnb_host.csv`
+- `civitatis_airbnb_listing.csv`
+- `civitatis_airbnb_reviews.csv`
+- Archivos extraídos de `calendar_and_listings_csv.rar`
+
+### Pasos para ejecutar:
+1. **Limpiar los datos**: Abre y ejecuta el archivo `main_cleanup.ipynb`. Este script procesará los CSV y generará versiones limpias de los archivos.
+   
+2. **Configurar la base de datos en MySQL**:
+   - Carga los archivos SQL en **MySQL Workbench** en este orden:
+     1. `civitatis_airbnb_schema.sql`
+     2. `civitatis_airbnb_database.sql`
+   - Crea el esquema ejecutando las instrucciones en **MySQL Workbench**. Copia el código generado y pégalo en la pestaña de consultas (queries). Usa este esquema para realizar las consultas SQL que desees.
+
+3. **Generar gráficos y mapas**: Ejecuta los scripts `cleaning_functions.py` y `report_functions.py`. Estos scripts crearán las visualizaciones gráficas y los mapas basados en los datos procesados.
 
 
 ---
